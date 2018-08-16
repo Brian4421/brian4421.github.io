@@ -2,3 +2,6 @@ body
 {
  background-image: url(images/fondo.gif);  
 }
+ul{
+    display:inline;
+}
